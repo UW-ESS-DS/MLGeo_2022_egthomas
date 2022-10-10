@@ -1,6 +1,6 @@
-### Elaina Thomas' github repo for Machine Learning in the Geosciences
+# Elaina Thomas' github repo for Machine Learning in the Geosciences
 
-# October, 2022
+### October, 2022
 
 My favorite Earth Science topics: Ocean :ocean:, microbes :test_tube:, bioinformatics :dna:
 
