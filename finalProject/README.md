@@ -8,7 +8,7 @@ Last updated: 12/8/22
 
 To determine whether mixotrophic protists shift in trophic mode in response to nutrient availability, light, and temperature, I apply a machine learning model to metatranscriptomes collected from the surface ocean across the North Pacific. Metatranscriptomes were collected in 2017 during the Gradients 2 expedition. Read about the expedition in [Juranek et al. 2020 (DOI: 10.1029/2020GB006702)](https://doi.org/10.1029/2020GB006702).
 
-To read about the development of the machine learning model and application of the model to the Gradients 1 cruise, see [Lambert et al. 2022, (DOI: 10.1073/pnas.2100916119)](https://www.pnas.org/doi/full/10.1073/pnas.2100916119)
+To read about the development of the machine learning model and application of the model to the Gradients 1 cruise, see [Lambert et al. 2022, (DOI: 10.1073/pnas.2100916119)](https://www.pnas.org/doi/full/10.1073/pnas.2100916119).
 ## Data availability
 For running ML jupyter notebook:
 
@@ -23,6 +23,7 @@ For running ML jupyter notebook:
 [Extracted_Pfams.csv](https://uwnetid-my.sharepoint.com/:x:/r/personal/egthomas_uw_edu/Documents/Extracted_Pfams.csv?d=wc047b7a23cf24e059053978644977afa&csf=1&web=1&e=YAhz6s)
 
 For plotting in R:
+
 [G2_surface_tpm_updatedMarferret_marmicroDb_sampleTaxa.csv](https://uwnetid-my.sharepoint.com/:x:/r/personal/egthomas_uw_edu/Documents/G2_surface_tpm_updatedMarferret_marmicroDb_sampleTaxa.csv?d=w3c0e5b82b50d4d1d8252ba4fbf9ae406&csf=1&web=1&e=DiMMno)
 
 [Gradients2_discrete_samples.xlsx](https://uwnetid-my.sharepoint.com/:x:/r/personal/egthomas_uw_edu/Documents/Gradients2_discrete_samples.xlsx?d=w120b83308ba44c5ba5eef83c7004929d&csf=1&web=1&e=IED8ot)
